@@ -1,4 +1,4 @@
-name: ndure-shoes
+name: covid tracker app
 on: [push]
 
 jobs:
